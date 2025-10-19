@@ -1,0 +1,40 @@
+* {
+  Margin:0;
+    padding:0;
+  font-family:Segoe UI, Arial;
+  text-align:center;
+}
+
+body {
+  background:white;
+  color:orange;
+    
+}
+
+nav {
+  justify-content:center;
+  display:flex;
+  
+}
+
+nav ul {
+  list-style:none;
+  display:flex;
+  gap:20px;
+ 
+}
+
+nav a {
+  text-decoration:none;
+  text-weight:bold; 
+  color:gray;
+}
+
+h2 {
+  margin-top:80px;
+}
+
+#Appointmentform {
+   margin-top:80px;
+}
+
